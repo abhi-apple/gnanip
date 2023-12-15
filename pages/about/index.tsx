@@ -12,52 +12,12 @@ const About = () => {
       </div>
       <div>
         <p className="mb-4 text-justify">
-          A few years back, I decided to try my hand at establishing Facebook on
-          my own using raw PHP, and that was the moment I fell into coding and
-          web development, even if I couldn&apos;t finish that project. Fast
-          forward to now, and I&apos;ve had the pleasure of developing software
-          for{" "}
-          <a
-            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-            href="https://devskill.com/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            DevSkill
-          </a>
-          , and{" "}
-          <a
-            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-            href="https://www.asthait.com/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            ASTHA-IT.
-          </a>
-        </p>
-        <p className="mb-4 text-justify">
-          I also like sharing content in{" "}
-          <a
-            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-            href="https://www.linkedin.com/in/ismaelmiah/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            LinkedIn
-          </a>{" "}
-          related to the stuff that I have learned over the years in Web
-          Development so it can help other people of the Dev Community.
-        </p>
-        <p className="mb-4 text-justify">
-          I&apos;m interested in{" "}
-          <b className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
-            Part-Time
-          </b>{" "}
-          employment options where I can grow, contribute, and learn. If you
-          have a fantastic opportunity that matches my talents and expertise,
-          please do not hesitate to contact me. In my free time, I contribute
-          some open-source projects and try to learn something new from LinkedIn
-          connections.
+          Iam a final-year Computer Science student at VIT Bhopal with a strong
+          passion for software development. I am eager to apply my skills in an
+          environment that fosters continuous learning and embraces innovative
+          ideas. I am actively seeking opportunities where I can contribute my
+          knowledge and expertise while staying engaged in the dynamic field of
+          software development.
         </p>
       </div>
 
@@ -124,37 +84,37 @@ const About = () => {
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              EC2
+                EC2
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              S3
+                S3
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              ELB
+                ELB
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              ASG
+                ASG
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              Lambda
+                Lambda
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              SQS
+                SQS
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              SNS
+                SNS
               </div>
             </li>
             <li className="mr-1.5 mt-2">
